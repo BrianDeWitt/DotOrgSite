@@ -15,6 +15,7 @@ The code that for the tumblr-hosted briandewitt.org site.
 + [ ] Add link to [Amazon Books Wishlist]()
 
 ## Decisions to Make 
++ [ ] should I use Github's Issues for these tasks?
 + [ ] figure out new layout for intro block at top of page
 + [ ] is the version of ZURB Foundation ok? 
 + should I link to Instapaper articles/list/feed? 
@@ -23,5 +24,5 @@ The code that for the tumblr-hosted briandewitt.org site.
     - cutestrap [Website](https://www.cutestrap.com/) | [Github](https://github.com/cutestrap/cutestrap)
     - bootstrap [Framework](http://getbootstrap.com/) | [Bootstrap information resource](http://twitterbootstrap.org/)
     - ZURB [Foundation 6](http://foundation.zurb.com/)
-+ should there be a CSS framework for printing? See Harjita: [Website](http://www.vcarrer.com/2014_09_01_archive.html) | [Github](https://github.com/vladocar/Hartija---CSS-Print-Framework)
-+ should I just modify an existing Tumblr theme?
++ [ ] should there be a CSS framework for printing? See Harjita: [Website](http://www.vcarrer.com/2014_09_01_archive.html) | [Github](https://github.com/vladocar/Hartija---CSS-Print-Framework)
++ [ ] should I just modify an existing Tumblr theme?
