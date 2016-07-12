@@ -2,21 +2,21 @@
 The code that for the tumblr-hosted briandewitt.org site. 
 
 ## Items to Do
-+ |_| review topics/tags list
-+ |_| search posts that relate to being a father
-+ |_| tag posts that are father-related content (for example, fowl language comics shares) 
-+ |_| update topics/tags list if necessary
-+ |_| make Dad link actually link to something to do with being a dad
-+ |_| review code to find external file links
++ [ ] review topics/tags list
++ [ ] search posts that relate to being a father
++ [ ] tag posts that are father-related content (for example, fowl language comics shares) 
++ [ ] update topics/tags list if necessary
++ [ ] make Dad link actually link to something to do with being a dad
++ [ ] review code to find external file links
     - determine if those external file links are still active
     - plan a course of action if the external file links are not active
     - can they be inserted into Tumblr-hosted code?
-+ |_| Add link to [PragProg Wishlist ](https://pragprog.com/wishlist/brian-dewitt-42502-4c2c8b40de)
-+ |_| Add link to [Amazon Books Wishlist]()
++ [ ] Add link to [PragProg Wishlist ](https://pragprog.com/wishlist/brian-dewitt-42502-4c2c8b40de)
++ [ ] Add link to [Amazon Books Wishlist]()
 
 ## Decisions to Make 
-+ |_| figure out new layout for intro block at top of page
-+ |_| is the version of ZURB Foundation ok? 
++ [ ] figure out new layout for intro block at top of page
++ [ ] is the version of ZURB Foundation ok? 
 + should I link to Instapaper articles/list/feed? 
     - if yes, to which ones?  Read? Liked? 
 + is there another responsive/adaptive design template to use? Options are: 
