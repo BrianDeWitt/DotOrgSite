@@ -7,6 +7,10 @@ The code that for the tumblr-hosted briandewitt.org site.
 + tag posts that are father-related content (for example, fowl language comics shares) 
 + update topics/tags list if necessary
 + make Dad link actually link to something to do with being a dad
++ review code to find external file links
+    - determine if those external file links are still active
+    - plan a course of action if the external file links are not active
+    - can they be inserted into Tumblr-hosted code?
 
 ## Decisions to Make 
 + figure out new layout for intro block at top of page
@@ -16,3 +20,4 @@ The code that for the tumblr-hosted briandewitt.org site.
     - bootstrap [Framework](http://getbootstrap.com/) | [Bootstrap information resource](http://twitterbootstrap.org/)
     - ZURB [Foundation 6](http://foundation.zurb.com/)
 + should there be a CSS framework for printing? See Harjita: [Website](http://www.vcarrer.com/2014_09_01_archive.html) | [Github](https://github.com/vladocar/Hartija---CSS-Print-Framework)
++ should I just modify an existing Tumblr theme?
