@@ -15,6 +15,7 @@ The code that for the tumblr-hosted briandewitt.org site.
 + [ ] Add link to [Amazon Books Wishlist]()
 
 ## Decisions to Make 
++ [ ] should I use Github's Issues for these tasks?
 + [ ] figure out new layout for intro block at top of page
 + [ ] is the version of ZURB Foundation ok? 
 + should I link to Instapaper articles/list/feed? 
