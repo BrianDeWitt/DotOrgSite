@@ -33,3 +33,4 @@ The code that for the tumblr-hosted briandewitt.org site.
 + [purples](http://naturalpalettes.tumblr.com/post/144352079966/anthony-samaniego)
 + [pink and purple sunset colors](http://naturalpalettes.tumblr.com/post/122147291891/jim-semonik)
 + [Sunrise in Patagonia](http://naturalpalettes.tumblr.com/post/115228469016/sunrise-in-patagonia)
++ [Determine code for a color](http://whatcolourisit.scn9a.org)
