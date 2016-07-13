@@ -26,3 +26,10 @@ The code that for the tumblr-hosted briandewitt.org site.
     - ZURB [Foundation 6](http://foundation.zurb.com/)
 + [ ] should there be a CSS framework for printing? See Harjita: [Website](http://www.vcarrer.com/2014_09_01_archive.html) | [Github](https://github.com/vladocar/Hartija---CSS-Print-Framework)
 + [ ] should I just modify an existing Tumblr theme?
+
+## Color Palette Options
+
++ [Mountain Waves](http://naturalpalettes.tumblr.com/post/146468571956/mountain-waves)
++ [purples](http://naturalpalettes.tumblr.com/post/144352079966/anthony-samaniego)
++ [pink and purple sunset colors](http://naturalpalettes.tumblr.com/post/122147291891/jim-semonik)
++ [Sunrise in Patagonia](http://naturalpalettes.tumblr.com/post/115228469016/sunrise-in-patagonia)
