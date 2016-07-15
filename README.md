@@ -34,3 +34,4 @@ The code that for the tumblr-hosted briandewitt.org site.
 + [pink and purple sunset colors](http://naturalpalettes.tumblr.com/post/122147291891/jim-semonik)
 + [Sunrise in Patagonia](http://naturalpalettes.tumblr.com/post/115228469016/sunrise-in-patagonia)
 + [Determine code for a color](http://whatcolourisit.scn9a.org)
++ [About Color in Hexadecimal](http://thenewcode.com/1108/Using-Hexadecimal-Colors-in-CSS)
