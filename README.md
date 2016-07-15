@@ -5,6 +5,7 @@ The code that for the tumblr-hosted [briandewitt.org](http://www.briandewitt.org
 I have name each branch according to its function. The edit_** branch(es) are for edits to the readme.md and any of the site-associated files (sidebardesciption, index.html, etc.) The number after the edit_ part is the Nth version of the branch. This is just to serve as training wheels for me as I get the hang of Github. 
 
 ***What to Do***
+
 When editing any files, make sure that the latest branch (highest/largest number after the edit_ part) is the branch in which you are working. 
 
 I may remove the number after the edit_ name part as it seems unnecessary. 
